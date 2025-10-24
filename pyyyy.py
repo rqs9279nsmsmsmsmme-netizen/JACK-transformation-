@@ -65,4 +65,4 @@ try:
         f.write(code)
     print('تم التحويل بنجاح ⚜️')    
 except PermissionError:
-    print("[!] راسلني مطور الاداة  @C_WC2.")
+    print("[!] راسلني مطور الاداة  2.")
